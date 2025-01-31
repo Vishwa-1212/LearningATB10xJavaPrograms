@@ -1,3 +1,5 @@
+package Exercises;
+
 import java.util.Scanner;
 
 public class Maximun_of_two_number {

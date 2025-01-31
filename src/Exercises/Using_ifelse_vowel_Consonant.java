@@ -1,3 +1,5 @@
+package Exercises;
+
 import java.util.Scanner;
 
 public class Using_ifelse_vowel_Consonant {

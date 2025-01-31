@@ -1,3 +1,5 @@
+package Exercises;
+
 import java.util.Scanner;
 
 public class Positive_or_Negative {
